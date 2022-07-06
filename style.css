@@ -26,7 +26,7 @@ h2 {
 }
 
 .experience-item {
-    box-shadow: 10px 10px 40px;
+    box-shadow: 10px 10px 40px gray;
     width: 50%;
     margin-left: 5%;
     margin-right: 5%;
